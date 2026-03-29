@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-    <title>UG GNURS 303: Eye, Ear, Throat & Dental Nursing | 129 MCQs</title>
+    <title>UG GNURS 303: Eye, Ear, Throat & Dental Nursing | 120 MCQs</title>
     <style>
         * {
             margin: 0;
